@@ -15,6 +15,7 @@ const Section03 = () => {
                     IT 교육 기회를 제공하여<br/>
                     꿈꾸던 가능성을 열어준다.
                 </h2>
+                <p className='tage'></p>
             </div>
         </S.Section03Content>
         <S.Section03Content className='right'>
